@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        xmlns:android="http://schemas.android.com/apk/res/android">
-  <name>Update Manifest File</name>
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        id="com.phonegap.plugin.UpdateManifest"
+        version="1.0.0">
+
+  <name>Update Manifest</name>
+
+  <description>
+    Update the manifest file
+  </description>
+
+  <author>M Sai Krishna</author>
+
+  <license>MIT</license>
+
   <engines>
     <engine name="cordova" version=">=3.0.0"/>
   </engines>
